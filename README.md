@@ -35,7 +35,7 @@ This README provides step-by-step instructions on how to install the Automa exte
 ## Using the Workflows
 
 ### Download Images in View Mode using `dlimages` Workflow
-1. Navigate to [Tegr.ai](https://tengr.ai) and log in to your account.
+1. Navigate to [Tengr.ai](https://tengr.ai) and log in to your account.
 2. Switch to the "View" mode where you can see the 4 images you want to download.
 3. Open the Automa extension.
 4. Select the `dlimages` workflow from your list.
@@ -43,7 +43,7 @@ This README provides step-by-step instructions on how to install the Automa exte
 6. The workflow will automatically download the 4 images visible in the View mode.
 
 ### Download All Images in Each of the 20 Image Sets in Browse Mode using `page` Workflow
-1. Navigate to [Tegr.ai](https://tengr.ai) and log in to your account.
+1. Navigate to [Tengr.ai](https://tengr.ai) and log in to your account.
 2. Switch to the "Browse" mode where you can see multiple image sets.
 3. Open the Automa extension.
 4. Select the `page` workflow from your list.

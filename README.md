@@ -55,7 +55,7 @@ This README provides step-by-step instructions on how to install the Automa exte
 - If you encounter any issues with the workflows, check the Automa documentation or support resources.
 
 ## Conclusion
-With the Automa extension, you can automate the process of downloading images from Tegr.ai using the provided workflows. This saves time and ensures you have all the images you need for your projects.
+With the Automa extension, you can automate the process of downloading images from Tengr.ai using the provided workflows. This saves time and ensures you have all the images you need for your projects.
 
 ---
 

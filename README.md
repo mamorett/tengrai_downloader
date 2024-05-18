@@ -8,7 +8,7 @@ This README provides step-by-step instructions on how to install the Automa exte
 ### Step 1: Install Automa Extension
 1. Open your Chrome browser.
 2. Navigate to the [Chrome Web Store](https://chrome.google.com/webstore).
-3. Search for "Automa".
+3. Search for "Automa". Alternatively, you can download it from the [Automa web site](https://www.automa.site/)
 4. Click on the Automa extension and then click "Add to Chrome".
 5. Confirm the installation by clicking "Add extension".
 

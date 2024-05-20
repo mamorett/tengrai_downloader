@@ -34,13 +34,14 @@ This README provides step-by-step instructions on how to install the Automa exte
 
 ## Using the Workflows
 
-### Download Images in View Mode using `dlimages` Workflow
+### Download Images and prompts in View Mode using `dlimages` Workflow
 1. Navigate to [Tengr.ai](https://tengr.ai) and log in to your account.
 2. Switch to the "View" mode where you can see the 4 images you want to download.
 3. Open the Automa extension.
 4. Select the `dlimages` workflow from your list.
 5. Click on the "Run" button to execute the workflow.
 6. The workflow will automatically download the 4 images visible in the View mode.
+7. Prompt and unique url will also be saved in a separate json file
 
 ### Download All Images in Each of the 20 Image Sets in Browse Mode using `page` Workflow
 1. Navigate to [Tengr.ai](https://tengr.ai) and log in to your account.

@@ -25,12 +25,14 @@ This README provides step-by-step instructions on how to install the Automa exte
 ### Step 2: Import `page` Workflow
 1. Click on the "Import" button in the Automa interface.
 2. Upload the `page.automa.json` file containing the `page` workflow.
-3. The workflow should now appear in your list of workflows.
+3. Upload the `page-upscales.automa.json` file containing the `page-upscales` workflow.
+4. The workflow should now appear in your list of workflows.
 
 ### Step 3: Import `dlimages` Workflow
 1. Click on the "Import" button in the Automa interface.
 2. Upload the `dlimages.automa.json` file containing the `dlimages` workflow.
-3. The workflow should now appear in your list of workflows.
+3. Upload the `dlimages-upscales.automa.json` file containing the `dlimages-upscales` workflow.
+4. The workflow should now appear in your list of workflows.
 
 ## Using the Workflows
 
@@ -43,6 +45,15 @@ This README provides step-by-step instructions on how to install the Automa exte
 6. The workflow will automatically download the 4 images visible in the View mode.
 7. Prompt and unique url will also be saved in a separate json file
 
+### Download Upscaled only Images and prompts in View Mode using `dlimages-upscales` Workflow
+1. Navigate to [Tengr.ai](https://tengr.ai) and log in to your account.
+2. Switch to the "View" mode where you can see the 4 images you want to download.
+3. Open the Automa extension.
+4. Select the `dlimages-upscales` workflow from your list.
+5. Click on the "Run" button to execute the workflow.
+6. The workflow will automatically download the upscaled images visible in the View mode.
+7. Prompt and unique url will also be saved in a separate json file
+
 ### Download All Images in Each of the 20 Image Sets in Browse Mode using `page` Workflow
 1. Navigate to [Tengr.ai](https://tengr.ai) and log in to your account.
 2. Switch to the "Browse" mode where you can see multiple image sets.
@@ -50,6 +61,15 @@ This README provides step-by-step instructions on how to install the Automa exte
 4. Select the `page` workflow from your list.
 5. Click on the "Run" button to execute the workflow.
 6. The workflow will automatically iterate through each of the 20 image sets and download all images within them.
+
+
+### Download Upscaled only Images in Each of the 20 Image Sets in Browse Mode using `page-upscales` Workflow
+1. Navigate to [Tengr.ai](https://tengr.ai) and log in to your account.
+2. Switch to the "Browse" mode where you can see multiple image sets.
+3. Open the Automa extension.
+4. Select the `page-upscales` workflow from your list.
+5. Click on the "Run" button to execute the workflow.
+6. The workflow will automatically iterate through each of the 20 image sets and download images which are upscaled within them.
 
 ## Notes
 - Ensure you have the latest version of Chrome for the best experience with the Automa extension.
